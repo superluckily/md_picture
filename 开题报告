@@ -1,53 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T11:23:31.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="t6m-_UJhyRvh0kqKiANT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T16:00:22.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NXBo5zqsMfPKI5ev2WVE" version="21.3.1" type="github">
   <diagram id="krfcGO6Xv4CBJxYx1b0Z" name="第 1 页">
-    <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-1" value="智能咨询系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-1" value="智能咨询系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-3" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-3" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-4" value="列举热门问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-4" value="注册页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="310" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-5" value="用户查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-5" value="登录页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="122.5" y="310" width="35" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-6" value="提供答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-6" value="问答页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="310" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-7" value="问题分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-7" value="问题分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="310" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-8" value="计算相似度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-8" value="问题补全" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="310" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-9" value="答案输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-9" value="答案输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="310" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-10" value="关键词提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-10" value="信息检索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="310" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;direction=south;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;direction=south;" parent="1" vertex="1">
           <mxGeometry x="140" y="120" width="460" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;direction=south;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;direction=south;" parent="1" vertex="1">
           <mxGeometry x="40" y="230" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=15;direction=south;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=15;direction=south;" parent="1" vertex="1">
           <mxGeometry x="40" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;direction=south;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;direction=south;" parent="1" vertex="1">
           <mxGeometry x="450" y="230" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w8k5s0SgmOlYymDxM3-t-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=15;direction=south;" vertex="1" parent="1">
+        <mxCell id="w8k5s0SgmOlYymDxM3-t-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=15;direction=south;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cgwh6FkWPkrSZSsYaG88-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="135" y="440" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cgwh6FkWPkrSZSsYaG88-2" value="列举热门问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="518" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Cgwh6FkWPkrSZSsYaG88-3" value="用户查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="518" width="35" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
